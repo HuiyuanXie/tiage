@@ -7,18 +7,14 @@ This package is mainly contributed by [Huiyuan Xie](https://huiyuanxie.github.io
 ## How to cite
 
 If you use TIAGE in your work, please cite:
-> @article{xie2021tiage,
-
-> title={TIAGE: A Benchmark for Topic-Shift Aware Dialog Modeling},
-
-> author={Xie, Huiyuan and Liu, Zhenghao and Xiong, Chenyan and Liu, Zhiyuan and Copestake, Ann},
-
-> journal={arXiv preprint arXiv:2109.04562},
-
-> year={2021}
-
-> }
-
+```
+@article{xie2021tiage,
+  title={TIAGE: A Benchmark for Topic-Shift Aware Dialog Modeling},
+  author={Xie, Huiyuan and Liu, Zhenghao and Xiong, Chenyan and Liu, Zhiyuan and Copestake, Ann},
+  journal={arXiv preprint arXiv:2109.04562},
+  year={2021}
+ }
+```
 
 
 ### Install
